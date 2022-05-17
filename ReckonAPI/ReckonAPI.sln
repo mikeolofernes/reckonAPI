@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReckonAPI", "ReckonAPI\ReckonAPI.csproj", "{34AA4197-71AC-418D-9734-52FB1690915D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AA4197-71AC-418D-9734-52FB1690915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AA4197-71AC-418D-9734-52FB1690915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AA4197-71AC-418D-9734-52FB1690915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AA4197-71AC-418D-9734-52FB1690915D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9C9868-1DAC-4584-9711-05A730E3B11A}
+	EndGlobalSection
+EndGlobal
